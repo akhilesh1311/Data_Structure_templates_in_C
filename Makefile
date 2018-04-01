@@ -3,7 +3,8 @@ CC = gcc
 VPATH = graphs:heaps:include:queue:stack:string_operations:trees
 #GPATH = graphs:heaps:include:queue:stack:string_operations:trees
 DEPS = graphs.h heaps.h include.h queue.h stack.h string_operations.h trees.h
-#DIR = 
+#DIR =
+#Random Comment  
 LDIR = $(PWD)/$(VPATH)/lib
 IDIR = $(PWD)/include
 
